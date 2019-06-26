@@ -5,7 +5,7 @@
 h1 {
     font-family: 'Bree Serif', serif;
     color: skyblue;
-    background-image: url('../static/images/polar-bear-family.jpg');
+    background-image: url('../static/css/static/images/polar-bear-family.jpg');
 }
 
 body {
