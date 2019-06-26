@@ -1,3 +1,23 @@
 /**
 * Your CSS here
 **/
+ 
+h1 {
+    font-family: 'Bree Serif', serif;
+    color: skyblue;
+    background-image: url('../static/images/polar-bear-family.jpg');
+}
+
+body {
+    font-family: 'Noto Serif', serif;
+  
+
+h2 {
+    font-family: 'Bree Serif', serif;
+    color: lightskyblue
+}
+
+h3 {
+    font-family: 'Bree Serif', serif;
+    color: lightblue 
+}
