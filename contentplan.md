@@ -20,7 +20,12 @@ Animals that live in the North Pole include polar bears, penguins, artic fox, wa
 ![Cracking Arctic ice under the North Pole sun](./static/images/cracking-ice.jpg)
 
 ## What does the North Pole have to offer?
-- Dicover 
+- Get  up close and personal with some of the North Poles most unique and captivating wildlife. [*Discover-the-Arctic-Wildlife*](##Discover-the-Arctic-Wildlife)
+- Spend a night or even your whole trip at the Polar Grotto and take in the pituresque landscape in warmth and serenity.
+- Tak a visit to Santa's Grotto and even get the chance to meet Santa and his reindeer themselves.
+- Follow in the steps of some of the bravest explorers by taking part in one of our personalised hiking journeys led b our amazing expertee guides.
+
+
 ![series of tall ice bergs in the North Pole](./static/images/north-pole-icebergs.jpg)
 
 ### Discover the Arctic Wildlife
@@ -28,3 +33,12 @@ Animals that live in the North Pole include polar bears, penguins, artic fox, wa
 -![Two polar bears laying in the snow](./static/images/gg-polar-bears.jpg)
 
 -![Large group of reindeer](./static/images/reindeers.jpg)
+pics
+
+### The Polar Grotto
+
+![Two people wathing the Northern lights from the Polar Grotto](./static/images/kak-two-ppl.jpg)
+The Polar Grotto is one of the most popular hotel that the North Pole has to offer. Made up of isolated pod-like hotel rooms, this grotto allows you to take in the Arctic atmosphere privately from the peace and warmth of you own room. If you're lucky you may even be able to spot some wildlife! The Polar Grotto works to ensure your stay is as comfortable and stress-free as possible. Therefore, our main building holds a safe contained store, meaning that you will never run out of supplies. Despite the luxury feel of the accomodation, the Polar Grotto comes atone of the cheapest prices in the North Pole at only $65 a night.
+**Book now to secure your place**
+![]
+

@@ -4,20 +4,63 @@
  
 h1 {
     font-family: 'Bree Serif', serif;
-    color: skyblue;
+color: blue;
     background-image: url('../static/css/static/images/polar-bear-family.jpg');
 }
 
 body {
-    font-family: 'Noto Serif', serif;
+    font-family: 'Bree Serif',serif;
+    color:navy;
+    background-color: aliceblue;
+}
   
 
 h2 {
     font-family: 'Bree Serif', serif;
-    color: lightskyblue
+    color: grey;
+    font-size: 0.5cm;
 }
 
 h3 {
     font-family: 'Bree Serif', serif;
     color: lightblue 
+}
+.header {
+    background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/polar-bear-family.jpg');
+    height: 300px
+}
+
+.testimony {
+   color:black;
+   background-color: aliceblue;
+}
+
+.part3 {
+    background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/north-pole-icebergs.jpg');
+    height:350px;
+    width: 500px;
+}
+
+.todo {
+    background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/north-pole.jpg');
+    height:400px;
+    margin:0;
+}
+
+.gallery {
+    display:flex;
+}
+
+.gallery img {
+    flex-shrink: 0;
+    margin-right: 10px;
+}
+
+.animals {
+   overflow:scroll;
+   width: 500px;
+}
+
+section {
+    margin-top: 10px;
 }
