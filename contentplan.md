@@ -55,3 +55,8 @@ Fun for all the family! Come and visit Santa's Grotto and even meet Santa himsel
 
 Now at Santas grotto you will recieve your very own Nikon D860 camera for the duration of your trip. The water and weather proof nature of the camera will allow you to capture moments without fear of breaking your phone and with the newest high resolution lens it will ensure all your photos are top quality. The Nikon D860 camera also has the ability to connect to wifi meaning you can upload your photos directly to your phone or even social media.
 **Exclusive offer for visitors of Santa's grotto**
+
+![Young boy sitting on Santa's lap](./static/images/s1.jpg)
+![Santa reading to a group of children](./static/images/s2.jpeg)
+![Young girl hugging Santa](./static/images/s3.jpg)
+![Young girl playing with Santa](./static/images/s4.jpg)
