@@ -67,6 +67,16 @@ section {
     margin-top: 10px;
 }
 
-.camera-head {
+.camera-head h3{
     color: red
+}
+
+.camera {
+    background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/camera.jpg')
+}
+
+.santa {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
 }
