@@ -46,3 +46,12 @@ The Polar Grotto is one of the most popular hotel that the North Pole has to off
 ### Santa's Grotto
 
 ![The outside of Santa's Grotto](./static/images/santas-grotto.jpg)
+
+Fun for all the family! Come and visit Santa's Grotto and even meet Santa himself. Visit the reindeers, even Santa'spersonal favourite, Rudolph, and take a look at the eles in the elves in the toy factory, working hard towards making next Christmas' gifts. Once you are finished with all the excitement get a bite to eat at Santa's Home Restaurant or relax in his very own personal lounge. 
+
+![Image of Santa in his grotto](./static/images/santas-grotto-inside.jpg)
+
+### New to Santa's Grotto
+
+Now at Santas grotto you will recieve your very own Nikon D860 camera for the duration of your trip. The water and weather proof nature of the camera will allow you to capture moments without fear of breaking your phone and with the newest high resolution lens it will ensure all your photos are top quality. The Nikon D860 camera also has the ability to connect to wifi meaning you can upload your photos directly to your phone or even social media.
+**Exclusive offer for visitors of Santa's grotto**
