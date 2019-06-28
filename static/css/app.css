@@ -26,7 +26,7 @@ h3 {
     color: lightblue 
 }
 .header {
-    background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/polar-bear-family.jpg');
+    background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/little-bear.jpeg');
     height: 300px
 }
 
@@ -37,13 +37,11 @@ h3 {
 
 .part3 {
     background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/north-pole-icebergs.jpg');
-    height:350px;
-    width: 500px;
 }
 
 .todo {
     background-image: url('https://aimeeasiarose.github.io/aimee-north-pole/static/images/north-pole.jpg');
-    height:400px;
+    height:500px;
     margin:0;
 }
 
@@ -56,9 +54,14 @@ h3 {
     margin-right: 10px;
 }
 
+.gallery-window {
+    overflow: scroll;
+    width: 100%;
+}
+
 .animals {
    overflow:scroll;
-   width: 500px;
+   width: 100%;
 }
 
 section {
