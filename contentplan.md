@@ -40,5 +40,9 @@ pics
 ![Two people wathing the Northern lights from the Polar Grotto](./static/images/kak-two-ppl.jpg)
 The Polar Grotto is one of the most popular hotel that the North Pole has to offer. Made up of isolated pod-like hotel rooms, this grotto allows you to take in the Arctic atmosphere privately from the peace and warmth of you own room. If you're lucky you may even be able to spot some wildlife! The Polar Grotto works to ensure your stay is as comfortable and stress-free as possible. Therefore, our main building holds a safe contained store, meaning that you will never run out of supplies. Despite the luxury feel of the accomodation, the Polar Grotto comes atone of the cheapest prices in the North Pole at only $65 a night.
 **Book now to secure your place**
-![]
+![The outside of the Polar Hotel hotel rooms](./static/images/kak-multiple.jpg)
+![the outside of the Polar Hotel main building](./static/images/kak-whole2.jpg)
 
+### Santa's Grotto
+
+![The outside of Santa's Grotto](./static/images/santas-grotto.jpg)
